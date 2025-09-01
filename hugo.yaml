@@ -28,7 +28,7 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
 
-output:
+outputs:
   home:
     - HTML
     - RSS
