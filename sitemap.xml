@@ -2,14 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://galleg123.github.io/about/</loc>
+    <lastmod>2025-09-01T09:07:04+02:00</lastmod>
+  </url><url>
+    <loc>https://galleg123.github.io/tags/experience/</loc>
+    <lastmod>2025-09-01T09:07:04+02:00</lastmod>
+  </url><url>
     <loc>https://galleg123.github.io/</loc>
+    <lastmod>2025-09-01T09:07:04+02:00</lastmod>
+  </url><url>
+    <loc>https://galleg123.github.io/tags/personal/</loc>
+    <lastmod>2025-09-01T09:07:04+02:00</lastmod>
+  </url><url>
+    <loc>https://galleg123.github.io/tags/</loc>
+    <lastmod>2025-09-01T09:07:04+02:00</lastmod>
+  </url><url>
+    <loc>https://galleg123.github.io/projects/fullstackinventorymanagement/</loc>
     <lastmod>2025-09-01T08:49:09+02:00</lastmod>
   </url><url>
-    <loc>https://galleg123.github.io/project/</loc>
+    <loc>https://galleg123.github.io/projects/myproject/</loc>
     <lastmod>2025-09-01T08:49:09+02:00</lastmod>
+  </url><url>
+    <loc>https://galleg123.github.io/projects/</loc>
+    <lastmod>2025-09-01T08:49:09+02:00</lastmod>
+  </url><url>
+    <loc>https://galleg123.github.io/archives/</loc>
   </url><url>
     <loc>https://galleg123.github.io/categories/</loc>
   </url><url>
-    <loc>https://galleg123.github.io/tags/</loc>
+    <loc>https://galleg123.github.io/search/</loc>
   </url>
 </urlset>
